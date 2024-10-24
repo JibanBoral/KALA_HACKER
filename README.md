@@ -1,2 +1,21 @@
 # PGCONFIG-ALWAYS-OP-
 # PGCONFIG14X
+```
+termux-setup-storage
+```
+```
+apt update && apt upgrade
+```
+```
+pkg install git
+```
+## Clone this repository
+```
+git clone https://github.com/PGCONFIG14x/PGCONFIG14X
+```
+```
+cd PGCONFIGl
+```
+```
+bash PGCONFIG_TOOL
+```
