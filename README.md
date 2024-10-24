@@ -14,7 +14,7 @@ pkg install git
 git clone https://github.com/PGCONFIG14x/PGCONFIG14X
 ```
 ```
-cd PGCONFIGl
+cd PGCONFIG14X
 ```
 ```
 bash PGCONFIG_TOOL
