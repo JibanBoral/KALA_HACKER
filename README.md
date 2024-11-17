@@ -1,5 +1,5 @@
-# PGCONFIG-ALWAYS-OP-
-# PGCONFIG14X
+# KALA_HACKER-ALWAYS-OP-
+# KALA_HACKER
 ```
 termux-setup-storage
 ```
@@ -11,11 +11,11 @@ pkg install git
 ```
 ## Clone this repository
 ```
-git clone https://github.com/PGCONFIG14x/PGCONFIG14X
+git clone https://github.com/JibanBoral/KALA_HACKER.git
 ```
 ```
-cd PGCONFIG14X
+cd KALAKALA_HACKERx
 ```
 ```
-bash PGCONFIG_TOOL
+bash KALA_HACKER_TOOL
 ```
